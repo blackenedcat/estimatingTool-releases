@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>EstimationTool PCM</title>
-        <link>https://raw.githubusercontent.com/blackenedcat/estimatingTool-releases/main/pcm/appcast.xml</link>
-        <description>Sparkle appcast for the EstimationTool PCM macOS app.</description>
-        <language>en</language>
+        <item>
+            <title>1.43.1</title>
+            <pubDate>Wed, 06 May 2026 15:43:50 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.43.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.43.1/EstimationToolPCM-1.43.1.zip" length="25989749" type="application/octet-stream" sparkle:edSignature="97m5XpqmFJ6sNZgiFHVR196z8329yAeP15pTLur3frV7Ty6ysWirbNjgVK6AGJd7YJapXUaOBE2Y7Q82MO/aCw=="/>
+        </item>
     </channel>
 </rss>

@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>EstimationTool admin</title>
-        <link>https://raw.githubusercontent.com/blackenedcat/estimatingTool-releases/main/admin/appcast.xml</link>
-        <description>Sparkle appcast for the EstimationTool admin macOS app.</description>
-        <language>en</language>
+        <title>EstimationTool</title>
+        <item>
+            <title>1.43.1</title>
+            <pubDate>Wed, 06 May 2026 15:43:49 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.43.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43.1/EstimationTool-1.43.1.zip" length="25402181" type="application/octet-stream" sparkle:edSignature="KOu2KE2syDLKmdIRWOw4pL8y+8woeBoxWEtynbD9kCDzYSEkLL3TAPUGw+0A+0kq0pdXhO0YwbB389Z/x+yiBg=="/>
+        </item>
     </channel>
 </rss>
