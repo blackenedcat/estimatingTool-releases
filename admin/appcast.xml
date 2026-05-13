@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.43.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43.1/EstimationTool-1.43.1.zip" length="25402181" type="application/octet-stream" sparkle:edSignature="KOu2KE2syDLKmdIRWOw4pL8y+8woeBoxWEtynbD9kCDzYSEkLL3TAPUGw+0A+0kq0pdXhO0YwbB389Z/x+yiBg=="/>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43.1/EstimationTool-1.43.1.zip" length="25424935" type="application/octet-stream" sparkle:edSignature="dy4THJ2Tcjgzag3++G2Wbp4ze4MBc01vGE7NugZkDl2RiZ5wtVmH41JoVwgH2MPFNPX0o2VYbb02PtigMDXiBw=="/>
         </item>
     </channel>
 </rss>
