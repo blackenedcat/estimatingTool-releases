@@ -3,12 +3,12 @@
     <channel>
         <title>EstimationTool</title>
         <item>
-            <title>1.43.1</title>
-            <pubDate>Wed, 06 May 2026 15:43:49 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.43.1</sparkle:shortVersionString>
+            <title>1.43</title>
+            <pubDate>Mon, 18 May 2026 11:10:36 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43.1/EstimationTool-1.43.1.zip" length="25424935" type="application/octet-stream" sparkle:edSignature="dy4THJ2Tcjgzag3++G2Wbp4ze4MBc01vGE7NugZkDl2RiZ5wtVmH41JoVwgH2MPFNPX0o2VYbb02PtigMDXiBw=="/>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43/EstimationTool-1.43.zip" length="25441324" type="application/octet-stream" sparkle:edSignature="sbSogTYev5SOwoQmSekJDARiNW1rolfmtqrl1jOuPjon38OUTAb0yV8dgPHNwsEL0yBz/WLuoHXkA7Hi6uTsBQ=="/>
         </item>
     </channel>
 </rss>
