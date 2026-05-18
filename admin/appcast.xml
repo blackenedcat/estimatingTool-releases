@@ -4,11 +4,11 @@
         <title>EstimationTool</title>
         <item>
             <title>1.43</title>
-            <pubDate>Mon, 18 May 2026 11:10:36 +0300</pubDate>
+            <pubDate>Mon, 18 May 2026 15:17:53 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43/EstimationTool-1.43.zip" length="25441324" type="application/octet-stream" sparkle:edSignature="sbSogTYev5SOwoQmSekJDARiNW1rolfmtqrl1jOuPjon38OUTAb0yV8dgPHNwsEL0yBz/WLuoHXkA7Hi6uTsBQ=="/>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.43/EstimationTool-1.43.zip" length="25442509" type="application/octet-stream" sparkle:edSignature="b/e8pHmT5EVIDBBPqmWB1+H64F1t/lTpGBZmCfUknIeZV9NRabbUz9UAqhJDP05NNsa3kDUKWsMeMcngeeF5BQ=="/>
         </item>
     </channel>
 </rss>
