@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.43</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.43/EstimationToolPCM-1.43.zip" length="26073680" type="application/octet-stream" sparkle:edSignature="gdclzqa8dIizNGsYz7yghYEDygsMxVPqmjymM4X7cLl/CQJHAdeMs6JJsvvpIEBpidj6pxjlS91b837j/RctAQ=="/>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.43/EstimationToolPCM-1.43.zip" length="26073604" type="application/octet-stream" sparkle:edSignature="TywJ389uLknJesfnieJlcTEFSB9UInGBPwz2a964agoRB4YYmbfPcOb6GhfkVIWVMkTiAmYFhJwkk8TUSMifAg=="/>
         </item>
     </channel>
 </rss>
