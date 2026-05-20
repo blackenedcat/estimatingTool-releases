@@ -3,6 +3,14 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.43.1</title>
+            <pubDate>Wed, 20 May 2026 03:14:21 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.43.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.43.1/EstimationToolPCM-1.43.1.zip" length="26078337" type="application/octet-stream" sparkle:edSignature="0/Rb+vxe+SdUwfe0BXYirnPHYFw4lmGLr5umfKNENNs0ebNeomEdUfrXLVr/4ZLoycESU2EmBiLcULjcyUDmAA=="/>
+        </item>
+        <item>
             <title>1.43</title>
             <pubDate>Mon, 18 May 2026 15:17:54 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
