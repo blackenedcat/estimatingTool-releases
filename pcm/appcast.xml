@@ -3,6 +3,27 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.44</title>
+            <description><![CDATA[
+<h3>What's new in 1.44</h3>
+<ul>
+<li><b>Commission rules</b> &mdash; per-user setup, with an earnings preview for reps.</li>
+<li><b>Resizable &amp; hideable</b> columns on the clients list.</li>
+<li><b>Quick Estimate</b> &mdash; start a proposal without a client.</li>
+<li><b>Materials tab</b> for custom items.</li>
+<li><b>Owner initials</b> line on item PDFs.</li>
+<li>Smarter <b>required logic</b> &mdash; nested conditions and per-item unit type.</li>
+<li>Reworked refund screen, more accurate PDF totals, iPad list polish, more reliable sign-in.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 09 Jun 2026 16:22:35 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.44/EstimationToolPCM-1.44.zip" length="26290582" type="application/octet-stream" sparkle:edSignature="Twg+UHx1R5/GkNTepvg7S8yH1n+U/wvQySuYpadMhLEIV2JwTNxDtAHotRz4PGon6XNNQ45YJLqXbF68k6mpCA=="/>
+        </item>
+
+        <item>
             <title>1.43.1</title>
             <pubDate>Wed, 20 May 2026 03:14:21 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
