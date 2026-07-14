@@ -3,6 +3,26 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.1</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.1</h3>
+<ul>
+  <li><b>Client deposits</b> — send / void deposits and track open ones (sent/paid) in a new Deposits tab.</li>
+  <li><b>Contract lifecycle</b> — normal / sent / signed states, void a sent contract, and a clear "Contract Signed" indicator.</li>
+  <li><b>Document tools</b> — a per-document preview column (CL/INT/SUB/CON), a Generate Docs action, and document codes.</li>
+  <li><b>Pre-sign form</b> — confirm contact, secondary contact, start date, and send/draft before sending a contract.</li>
+  <li><b>Incentives</b> — value tiers, pricing-zone rules, exception requests, and expired-date protection.</li>
+  <li>Saved custom items, plus many QA fixes.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 14 Jul 2026 15:24:40 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.45.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.1/EstimationToolPCM-1.45.1.zip" length="26997877" type="application/octet-stream" sparkle:edSignature="kkbieAYuhbsue00RPVRmjnpLRohF7lUICo3NxpNxrcSA4qhIHucLC7iKLjzRSK4ZRB/03WgBLx7Wy47lSM4XBg=="/>
+        </item>
+
+        <item>
             <title>1.44</title>
             <description><![CDATA[
 <h3>What's new in 1.44</h3>
