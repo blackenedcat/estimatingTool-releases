@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.5</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.5</h3>
+<ul>
+  <li>Fixes a false error shown after successfully sending/voiding a deposit or voiding a contract.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 15 Jul 2026 21:41:13 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.45.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.5/EstimationTool-1.45.5.zip" length="25825028" type="application/octet-stream" sparkle:edSignature="vVufUUFWoADonq0lvGT92uUJbD32AwD500a9meeyWjC00SE3s3h6RDwuhqTjqv1wJA1azDn1guXJHXLscIY8BQ=="/>
+        </item>
+
+        <item>
             <title>1.45.4</title>
             <description><![CDATA[
 <h3>What's new in 1.45.4</h3>
