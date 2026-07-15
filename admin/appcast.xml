@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.4</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.4</h3>
+<ul>
+  <li>Fixes proposal status not being sent to document generation.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 15 Jul 2026 13:37:58 +0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.45.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.4/EstimationTool-1.45.4.zip" length="25825043" type="application/octet-stream" sparkle:edSignature="c383dYUFB852oP09OBW1a9SlUYOgdZXOW05eFdh3I0CqcnBKoiZHD8S/K9YO65l2f2zZe801/7Qba3nBGBTeDg=="/>
+        </item>
+
+        <item>
             <title>1.45.3</title>
             <description><![CDATA[
 <h3>What's new in 1.45.3</h3>

@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.4</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.4</h3>
+<ul>
+  <li>Fixes proposal status not being sent to document generation.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 15 Jul 2026 13:37:58 +0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.45.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.4/EstimationToolPCM-1.45.4.zip" length="27004359" type="application/octet-stream" sparkle:edSignature="uP+iVFXCdHlUZzNAdOAHgspUqG1AUF5dQGqE/lPH6Nw6hP/iHHCS0Wq/gWSz4tyOPxPi8dfUqOOeSTaBgQFdAg=="/>
+        </item>
+
+        <item>
             <title>1.45.3</title>
             <description><![CDATA[
 <h3>What's new in 1.45.3</h3>
