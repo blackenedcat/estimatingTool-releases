@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.6</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.6</h3>
+<ul>
+  <li>Minor payload adjustment for the contract sign form.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 17 Jul 2026 18:05:56 +0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.45.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.6/EstimationToolPCM-1.45.6.zip" length="27005465" type="application/octet-stream" sparkle:edSignature="dG3nxxVWOqgViMyQTcXDUgxu5VCoS8FYvn/CeEjx0+hzT3FabKkLYYTK/1m25Y7UwskoAKcLKIrIm00fzF67Ag=="/>
+        </item>
+
+        <item>
             <title>1.45.5</title>
             <description><![CDATA[
 <h3>What's new in 1.45.5</h3>
