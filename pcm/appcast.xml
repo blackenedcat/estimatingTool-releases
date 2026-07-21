@@ -3,6 +3,24 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.7</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.7</h3>
+<ul>
+  <li>New "Submit Sale" form to hand a signed project to production.</li>
+  <li>Client list tabs: All / In Progress / Past.</li>
+  <li>Proposal sections no longer reshuffle after doc actions.</li>
+  <li>Uploaded files keep their original filename; various fixes.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 21 Jul 2026 09:35:45 +0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.45.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.7/EstimationToolPCM-1.45.7.zip" length="27196756" type="application/octet-stream" sparkle:edSignature="DS54w2LwR4N7XIYIo3lXmwYpaWnMf20KisRRqQuolHja0BOinrVnKoEMXK4NY5QC4TsXaizk6gGIWEEevKBUCA=="/>
+        </item>
+
+        <item>
             <title>1.45.6</title>
             <description><![CDATA[
 <h3>What's new in 1.45.6</h3>
