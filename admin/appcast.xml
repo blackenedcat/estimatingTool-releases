@@ -3,6 +3,27 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.8</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.8</h3>
+<ul>
+<li>Submit Sale sends the consultant email, sale price/date, and commission (rate + amount) with the sale; commission rules and amount now ride on every proposal and change-order payload.</li>
+<li>Commission is paid on the final, post-incentive total; the Commission Preview tool uses the Final Total and limits the incentive slider to the employee's range.</li>
+<li>Wider "Input" column in the item tables.</li>
+<li>"Send to client to sign" now requires the deposit to be sent or paid first.</li>
+<li>Fixed: Price-Not-Applicable items can be added to an estimate again.</li>
+<li>Fixed: freshly generated documents show immediately instead of the old PDF.</li>
+<li>Fixed: combined-cap incentive minimum is enforced when the value tier changes.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 24 Jul 2026 16:00:09 +0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.45.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.8/EstimationTool-1.45.8.zip" length="25824907" type="application/octet-stream" sparkle:edSignature="0lEsuhSdEy9B7OqG/Mbx721qBK0zGqLaU3VFA/XLL1K0FSMofP0TNiJALle7qbJbhZtelqig069HdjLVGuRiBg=="/>
+        </item>
+
+        <item>
             <title>1.45.7</title>
             <description><![CDATA[
 <h3>What's new in 1.45.7</h3>
