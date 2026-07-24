@@ -3,6 +3,25 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.11</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.11</h3>
+<ul>
+<li>Fixed: fractional item quantities (e.g. 2.5) are sent correctly instead of being rounded down.</li>
+<li>Fixed: the Square footage settings field accepts decimals.</li>
+<li>Commission Preview shows a live Final Total that drops as the incentive rises.</li>
+<li>Generate Docs is disabled once documents exist, with a clearer "being generated" message.</li>
+<li>Clearer outgoing-arrow "sent" icon; Submit Sale copy/form tweaks; Pricing Zones required-field marker.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 24 Jul 2026 19:33:03 +0300</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.45.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.11/EstimationToolPCM-1.45.11.zip" length="27212742" type="application/octet-stream" sparkle:edSignature="NMrQwEfrWk4EdYzyGBaNkVm9kA+EBDRHJyh59Lnj2zZtooI1LFsTcqDwkoiSe0oKZpqi2VGoePGuWhcS3ko3AQ=="/>
+        </item>
+
+        <item>
             <title>1.45.9</title>
             <description><![CDATA[
 <h3>What's new in 1.45.9</h3>
