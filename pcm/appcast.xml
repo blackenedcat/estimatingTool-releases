@@ -3,6 +3,23 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.9</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.9</h3>
+<ul>
+<li>Fixed: Price-Not-Applicable items can now be removed from an estimate after being added.</li>
+<li>The generated-documents list now rides on every proposal, change-order, and submit-sale payload.</li>
+<li>Close button on the Submit Sale form; the yes/no buttons are now fully tappable.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 24 Jul 2026 18:14:05 +0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.45.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.9/EstimationToolPCM-1.45.9.zip" length="27208619" type="application/octet-stream" sparkle:edSignature="XHGhMVw+c0EJc95kLTB8SXDnmiOJj3NnHkatKNXl6E04ybUxxIEifILwGggpV/14xBmIiEFGJ0PqDvBmXiG2AA=="/>
+        </item>
+
+        <item>
             <title>1.45.8</title>
             <description><![CDATA[
 <h3>What's new in 1.45.8</h3>
