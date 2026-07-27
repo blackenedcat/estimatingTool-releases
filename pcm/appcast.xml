@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.12</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.12</h3>
+<ul>
+<li>Fixed a crash that quit the app when saving a proposal or change order.</li>
+</ul>
+]]></description>
+            <pubDate>Mon, 27 Jul 2026 12:02:13 +0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.45.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.12/EstimationToolPCM-1.45.12.zip" length="27214024" type="application/octet-stream" sparkle:edSignature="bb4rqWfMIeIh+lF2cEo1oIdij6HFMXasXw322OqK28PJOmv5kkza72syDg2rVRU4wuXsH5iPH5p7B5GqNPPTDA=="/>
+        </item>
+
+        <item>
             <title>1.45.11</title>
             <description><![CDATA[
 <h3>What's new in 1.45.11</h3>
