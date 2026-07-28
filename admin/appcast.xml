@@ -3,6 +3,25 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.13</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.13</h3>
+<ul>
+  <li>Value tiers and incentives are configured per pricing zone on each service, so discount caps apply per geographic zone again.</li>
+  <li>Combined incentive cap now has a global default, overridable per service. Creating a proposal outside the cap shows a dialog naming the active cap, and a proposal below the minimum needs an approved exception.</li>
+  <li>Submit Sale no longer shows an error when the submit actually succeeds.</li>
+  <li>Fixed subcategory reordering that could loop or hang on a spinner.</li>
+  <li>Incentive cards shake when dragged past their own limit; per-service/zone settings can't be saved when the incentive ranges don't fit the cap.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 28 Jul 2026 16:53:05 +0300</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.45.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.13/EstimationTool-1.45.13.zip" length="25856095" type="application/octet-stream" sparkle:edSignature="xCMu6GSGJKoda3GiKUlYh/N/pnCzAt9QN2sYny4eGjYl3/zHi3xznb1cXDlezsBV9pF9UDNNBqueshwXbdtDCA=="/>
+        </item>
+
+        <item>
             <title>1.45.12</title>
             <description><![CDATA[
 <h3>What's new in 1.45.12</h3>
