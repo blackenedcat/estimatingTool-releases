@@ -3,6 +3,25 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.14</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.14</h3>
+<ul>
+  <li>Value tiers can overlap freely in the library, but the tiers enabled for a service's pricing zone can no longer intersect — Save is blocked and the conflict is named.</li>
+  <li>Item reordering on a category page is now saved (it previously reverted on reopen).</li>
+  <li>Change-order list positions no longer reshuffle after document actions.</li>
+  <li>Per-service pricing-zone settings: the "unsaved changes" indicator now appears only for real edits and clears after saving; added a "Decline changes" button.</li>
+  <li>Client id is included in the proposal and change-order payloads.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 29 Jul 2026 19:34:12 +0300</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.45.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.14/EstimationToolPCM-1.45.14.zip" length="27234662" type="application/octet-stream" sparkle:edSignature="RBvEuE6mIlyAT2TEzRz0G4pdWzoUQWUFJWBOQO4r+ptovwh57xzM6mshQPzKxCB+MAsGyP1qr+p6HH1+Ug8WAQ=="/>
+        </item>
+
+        <item>
             <title>1.45.13</title>
             <description><![CDATA[
 <h3>What's new in 1.45.13</h3>
