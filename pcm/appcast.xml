@@ -3,6 +3,23 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.16</title>
+            <description><![CDATA[
+<h3>Version 1.45.16</h3>
+<h4>Changed</h4>
+<ul>
+  <li>Submit Sale: the salutation is prefilled from the primary (and secondary) contact — e.g. “Mr. and Mrs. Smith” when they share a last name — with hyphen-aware capitalization.</li>
+  <li>“Dr.” added to the title options (Mr. / Ms. / Mrs. / Dr.).</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 04 Aug 2026 20:45:11 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.45.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.16/EstimationToolPCM-1.45.16.zip" length="27275287" type="application/octet-stream" sparkle:edSignature="Kn+OLDXyZ1aAsFchkVxLVqT1O07w9RHTqu/W2mECt0Fh45neCrrjQWLMhdctoVJPOzmYO5yzjNKzgMOsAmOfDQ=="/>
+        </item>
+
+        <item>
             <title>1.45.15</title>
             <description><![CDATA[
 <h3>Version 1.45.15</h3>

@@ -3,6 +3,23 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.16</title>
+            <description><![CDATA[
+<h3>Version 1.45.16</h3>
+<h4>Changed</h4>
+<ul>
+  <li>Submit Sale: the salutation is prefilled from the primary (and secondary) contact — e.g. “Mr. and Mrs. Smith” when they share a last name — with hyphen-aware capitalization.</li>
+  <li>“Dr.” added to the title options (Mr. / Ms. / Mrs. / Dr.).</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 04 Aug 2026 20:45:11 +0300</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.45.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.16/EstimationTool-1.45.16.zip" length="25861280" type="application/octet-stream" sparkle:edSignature="X+Bo1Gy8aS0VclzL014NhebJo93ZK1MhRwLENCupHCxno9CF54BqXq071LgizrM4lD//fVUh/ht6Kj7oCC4qBA=="/>
+        </item>
+
+        <item>
             <title>1.45.15</title>
             <description><![CDATA[
 <h3>Version 1.45.15</h3>
