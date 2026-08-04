@@ -3,6 +3,35 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.15</title>
+            <description><![CDATA[
+<h3>Version 1.45.15</h3>
+<h4>Added</h4>
+<ul>
+  <li>Sales users see a commission preview on the proposal/change-order summary page, auto-filled from the live deal.</li>
+  <li>Submit Sale collects basement photos on step 2 and uploads them in the background; the stepper dots are clickable to jump between steps.</li>
+</ul>
+<h4>Changed</h4>
+<ul>
+  <li>Submit Sale contact confirmation rebuilt: confirm the primary contact, optionally add a secondary contact, then confirm one salutation for all automated emails (with required-field validation).</li>
+  <li>Commission is paid on the Final/Contract Total and driven by the setup discount you entered; the preview takes the final total as input and rates show two decimals.</li>
+  <li>Contract and deposit status is written only by the backend, so the app no longer stamps it locally.</li>
+  <li>A catalog item used only in proposals/change orders can now be deleted; only inherited child items still block deletion.</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+  <li>Catalog numbers no longer glitch after reordering or duplicating an item.</li>
+  <li>“Edit incentives” now lists only the value tiers added to the current pricing zone.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 04 Aug 2026 20:08:52 +0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.45.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.15/EstimationTool-1.45.15.zip" length="25861277" type="application/octet-stream" sparkle:edSignature="0JmPsf2BNRT+T+H0nlR9C4JP4qO/GMrlv5wvstrb8V3Ks2YHiOPEw16AMlhQLZQXoIlMtBffhfr7PJHsibvnBw=="/>
+        </item>
+
+        <item>
             <title>1.45.14</title>
             <description><![CDATA[
 <h3>What's new in 1.45.14</h3>
