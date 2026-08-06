@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.18</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.18</h3>
+<ul>
+  <li>Fixed a freeze when scrolling the catalog (for example while building a change order): item prices are now computed in the background, so a large catalog or a heavy pricing formula no longer stalls the app.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 07 Aug 2026 01:15:25 +0300</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.45.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.18/EstimationTool-1.45.18.zip" length="26139087" type="application/octet-stream" sparkle:edSignature="1XhlJmLHSzdbP4rRq7U4AyE2bsiIVCSL530leG3uwrzq8Et3coiYcGDc9cXa+eCuem2P9indbDvJQ82o4zSfCg=="/>
+        </item>
+
+        <item>
             <title>1.45.17</title>
             <description><![CDATA[
 <h3>What's new in 1.45.17</h3>
