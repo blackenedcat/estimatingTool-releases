@@ -3,6 +3,23 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.17</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.17</h3>
+<ul>
+  <li>Expired items: sending a proposal to sign (or a change order for payment) that uses catalog items changed since the proposal was created is now held for admin review in a new "Expired Items" tab — with a side-by-side diff of the proposal's saved item vs. the current catalog item — to approve (keeping the saved prices) or decline.</li>
+  <li>Proposals and change orders now keep a frozen copy of each catalog item, so editing a catalog item later no longer changes existing proposals or their contracts.</li>
+  <li>Document generation lets you pick which template to use per document type before sending.</li>
+</ul>
+]]></description>
+            <pubDate>Thu, 06 Aug 2026 14:35:07 +0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.45.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.17/EstimationToolPCM-1.45.17.zip" length="27642736" type="application/octet-stream" sparkle:edSignature="dkfSFY/zXwhYWkMI5z9cx+W+CYztmsN1CM5GfMuougDViT+8+VcO11TfRY2KrAKF4rSxHY53AxmAvgnEC0IqDQ=="/>
+        </item>
+
+        <item>
             <title>1.45.16</title>
             <description><![CDATA[
 <h3>Version 1.45.16</h3>
