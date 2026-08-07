@@ -3,6 +3,27 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.19</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.19</h3>
+<ul>
+<li>New "Omitted From Client Scope" flag on items and custom items.</li>
+<li>Generate Docs can now include a Contract template.</li>
+<li>Proposals show a "Submitted" status; deposit send shows "Sending" and void reads "voiding in process".</li>
+<li>Item detail and custom-item editing open as a pushed screen instead of a sheet.</li>
+<li>Copy Incentive/Value-tier settings between pricing zones; new value tiers no longer auto-add to zones.</li>
+<li>Admins get Exceptions and Expired Items tabs in the sales app.</li>
+<li>Custom-item edits save reliably again.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 07 Aug 2026 13:33:31 +0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.45.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.19/EstimationTool-1.45.19.zip" length="26174050" type="application/octet-stream" sparkle:edSignature="UfR10FpuHgl88WOy1PvDiIRd0EPepRUJ8ivpY2f1SeiT2WU3+WjYanSOgGjh4Cr3OcsCsjvrcdDuc0XfoDdNBw=="/>
+        </item>
+
+        <item>
             <title>1.45.18</title>
             <description><![CDATA[
 <h3>What's new in 1.45.18</h3>
