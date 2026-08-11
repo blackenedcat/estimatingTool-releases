@@ -3,6 +3,25 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.45.20</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.20</h3>
+<ul>
+<li>Expired-items review is limited to internal builds for now.</li>
+<li>Contract "send to sign" / "send for payment" is blocked until documents are generated.</li>
+<li>"Omit from client scope" gains an inherit-from-parent switch; custom items default it on.</li>
+<li>Signed proposals are bound to their client more robustly (no more disappearing from the list).</li>
+<li>Older ISO-8601 dates now parse correctly (fixes the expired-items check on old proposals).</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 11 Aug 2026 23:41:27 +0300</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.45.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.45.20/EstimationTool-1.45.20.zip" length="26174918" type="application/octet-stream" sparkle:edSignature="Vo4gbRekCmzTZlzgXsgtkfmtjahEWZNzTBdOsqVUDRRGO1f8f1p1W7L4rup+90IOfEL18abIWRisAuByxAuTCQ=="/>
+        </item>
+
+        <item>
             <title>1.45.19</title>
             <description><![CDATA[
 <h3>What's new in 1.45.19</h3>
