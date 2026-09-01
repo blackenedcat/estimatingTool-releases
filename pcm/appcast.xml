@@ -3,6 +3,28 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.21</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.21</h3>
+<ul>
+  <li>Expired-items review: blocked contract sends wait for admin approval, with a diff of what changed; requests no longer expire prematurely, and the queue loads in seconds.</li>
+  <li>Proposal totals: catalog and zone-adjusted, each with and without incentives — identical in the list and the opened proposal; per-incentive columns removed.</li>
+  <li>Cloning a proposal reports what it gained and lost vs the source.</li>
+  <li>"Has custom pricing" items now price from the entered amount.</li>
+  <li>Save Item shows progress and can no longer create duplicates on repeated clicks.</li>
+  <li>Deleting a catalog item shows which items' required logic will be adjusted.</li>
+  <li>Submit Sale supports drag &amp; drop uploads; commission uses the current rule.</li>
+  <li>Assorted fixes: deposit void re-arm, false "expired" flags, Make response messages, template selection in Custom Contract Actions.</li>
+</ul>
+]]></description>
+            <pubDate>Tue, 01 Sep 2026 21:49:43 +0300</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.45.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.21/EstimationToolPCM-1.45.21.zip" length="28109795" type="application/octet-stream" sparkle:edSignature="kOxk6PqBZWUUHc7CHe1GHOHlaIlCHsl31nDF2uuu8dYa9wg40orWqgruabEROHiT/Sqdl0KvSpNIjRUdcwBSAg=="/>
+        </item>
+
+        <item>
             <title>1.45.20</title>
             <description><![CDATA[
 <h3>What's new in 1.45.20</h3>
