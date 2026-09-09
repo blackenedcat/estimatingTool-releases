@@ -3,6 +3,29 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.45.22</title>
+            <description><![CDATA[
+<h3>What's new in 1.45.22</h3>
+<ul>
+  <li><b>Sends are blocked until the document is safely saved.</b> An unsynced proposal or change order now shows a badge and its Generate/Send/Submit/Void buttons stay disabled — Clone and Delete still work. Previously the send went out and failed on the server, silently.</li>
+  <li><b>The "item changed" warning no longer appears on every clone.</b> Identical requirements were being compared as different, and making a copy carried the problem forward instead of clearing it.</li>
+  <li><b>An approved incentive exception now actually lets you Apply.</b> Approving used to swap one limit for a tighter one. A disabled Apply button also tells you why it is disabled.</li>
+  <li><b>All design documents reach the generated documents</b>, not only the first one.</li>
+  <li><b>Custom-priced items price at the number you enter again</b> — older items multiplied it by the quantity.</li>
+  <li><b>The contract form asks how many weeks the job will take.</b></li>
+  <li><b>Item history records every field you can change</b>, including required items, photos, documents and trade list — and you can restore any of them.</li>
+  <li>The opened proposal names its project consultant. Proposal details scroll properly when design documents are attached.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 09 Sep 2026 14:43:54 +0300</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.45.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.45.22/EstimationToolPCM-1.45.22.zip" length="28161436" type="application/octet-stream" sparkle:edSignature="iFP6uBFMpXkwfBxovzB4rr5Rzb60HzjC5zNeaqma8A0HlpLdx+3r22VkFKdlIzH4YqZNa/V90QG7sd5k/ugyBA=="/>
+        </item>
+
+
+        <item>
             <title>1.45.21</title>
             <description><![CDATA[
 <h3>What's new in 1.45.21</h3>
