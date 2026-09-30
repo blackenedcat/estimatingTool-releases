@@ -3,6 +3,29 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.46</title>
+            <description><![CDATA[
+<h3>What's new in 1.46</h3>
+<ul>
+  <li><b>The app is substantially faster, and lighter on the device.</b> A Mac now syncs only the clients it has access to, and a client's proposals arrive when you open that client rather than all at once. The catalog is built once per session instead of once per proposal. Cold start, memory use and the local database all drop sharply.</li>
+  <li><b>Scrolling a client with many proposals is smooth again.</b> The list was measuring every cell on every frame; it no longer does.</li>
+  <li><b>Custom item prices accept decimals.</b> Every price field on the custom-item form takes cents as you type them.</li>
+  <li><b>A change order starts from the signed contract's square footage.</b> It used to inherit a stale figure, or none at all when the client's documents had not finished syncing. A change order has no settings tab, so this was the only place the value could come from.</li>
+  <li><b>Category and document totals keep their cents</b> when "Show cents" is on. They were being rounded to the dollar on the way into the generated document.</li>
+  <li><b>An item added in the admin app now appears in a client you already have open.</b> A catalog change that lands while you are mid-estimate is applied when you finish, rather than being dropped.</li>
+  <li><b>Expired Items shows every generated document,</b> each in its own column and rendered the way the proposals list renders them. It used to show one, and not predictably the same one.</li>
+  <li><b>"Generate Docs" says what it did</b> instead of reporting the status it stamps.</li>
+  <li><b>The proposals and change-order lists show a loading state,</b> so an empty grid reads as "still loading" rather than "nothing here". The identifier column is wider and left-aligned, so long numbers no longer overflow.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 30 Sep 2026 10:26:15 +0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.46</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.46/EstimationToolPCM-1.46.zip" length="29123209" type="application/octet-stream" sparkle:edSignature="w55qXdw2miKDVBdlpt0W5Kumg1u8dhIsKs2WWzviDCDFRrydxu6pm0G3x0JJTpYPv05bJWs6GBarbCgcjILiDQ=="/>
+        </item>
+
+        <item>
             <title>1.45.22</title>
             <description><![CDATA[
 <h3>What's new in 1.45.22</h3>
