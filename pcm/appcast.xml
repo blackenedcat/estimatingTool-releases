@@ -3,6 +3,24 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.46.1</title>
+            <description><![CDATA[
+<h3>What's new in 1.46.1</h3>
+<ul>
+  <li><b>An open client no longer runs the fan.</b> Opening a client left the app working flat out for as long as it stayed open — on a laptop that meant heat and battery. It now does that work once.</li>
+  <li><b>The deposit button keeps up with the deposit.</b> Sending one left it spinning on "Sending…", and voiding one on "Voiding…", until you backed out of the client and opened it again. It follows the real status now — and the contract can be sent to sign as soon as the deposit has gone out, instead of still asking for one.</li>
+  <li><b>An edited client reaches the documents you send.</b> A corrected address or e-mail saved on the Profile tab did not reach the contract form or Submit Sale until the client was reopened.</li>
+  <li><b>Custom Contract Actions opens.</b> The menu item was there but nothing appeared under it. Its three actions are also named for what they do — each one lets you pick the contract template by hand, where the actions above them use whichever template is active.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 30 Sep 2026 16:24:28 +0300</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.46.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.46.1/EstimationToolPCM-1.46.1.zip" length="29125828" type="application/octet-stream" sparkle:edSignature="bYz9XIKJDQPV73RsCzq67zgYopEzNO3djoa4oHETVcbvYHTC/oz7qd8Qbhd2NNUFqQcWTJbOeYCge9CQ7cxgCA=="/>
+        </item>
+
+        <item>
             <title>1.46</title>
             <description><![CDATA[
 <h3>What's new in 1.46</h3>
