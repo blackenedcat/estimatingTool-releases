@@ -3,6 +3,22 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.46.2</title>
+            <description><![CDATA[
+<h3>What's new in 1.46.2</h3>
+<ul>
+  <li><b>Any team member can be named as a change order's author.</b> The list only offered sales and admins, and gave no sign that other names had been left out of it.</li>
+  <li><b>The author starts as you.</b> Raising a change order no longer means picking your own name out of the list before Save will turn on.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 30 Sep 2026 19:48:09 +0300</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.46.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.46.2/EstimationToolPCM-1.46.2.zip" length="29129860" type="application/octet-stream" sparkle:edSignature="ppfZV4rrKOLXe4rSxoF+b6IBaiM6QyfxC7E/Pcgvw/UnGYckuAR8YJgx6nGTy7TfwqNoye8awHWIB2X863OYBA=="/>
+        </item>
+
+        <item>
             <title>1.46.1</title>
             <description><![CDATA[
 <h3>What's new in 1.46.1</h3>
