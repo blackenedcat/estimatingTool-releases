@@ -3,6 +3,25 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.46.3</title>
+            <description><![CDATA[
+<h3>What's new in 1.46.3</h3>
+<ul>
+  <li><b>Refunds work again.</b> Issue a refund lists the proposal's items so you can pick what to refund.</li>
+  <li><b>Change orders can be deleted again.</b> Delete asks to confirm, then removes the order.</li>
+  <li><b>Missing prompts are back.</b> Closing an estimate from the side menu asks before discarding it, and the discount cap prompts show up again.</li>
+  <li><b>Editing a preset</b> no longer shows a "Failed to load proposals" error.</li>
+  <li><b>Check for Updates tells you what went wrong</b> instead of spinning forever.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 02 Oct 2026 17:36:48 +0300</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.46.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.46.3/EstimationTool-1.46.3.zip" length="26545054" type="application/octet-stream" sparkle:edSignature="wbknBx+fvy65F2NZFN7gwgFqTFwH6M3Ai+blwddFC1ad+pctDp+HXWN46Cf3BcYtBXuFFs/fA8kMawVC+b57DA=="/>
+        </item>
+
+        <item>
             <title>1.46.2</title>
             <description><![CDATA[
 <h3>What's new in 1.46.2</h3>
