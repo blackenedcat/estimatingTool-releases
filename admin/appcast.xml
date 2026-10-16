@@ -3,6 +3,28 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.47</title>
+            <description><![CDATA[
+<h3>What's new in 1.47</h3>
+<ul>
+  <li><b>Search the catalog from anywhere.</b> The search button at the foot of the side menu finds items by name, position (like 1-2-3), description, trade or warning, and by meaning, so "fix a leaky wall" finds waterproofing. It runs on the device and searches as you type; on a Mac a mic button dictates into it.</li>
+  <li><b>Add search results straight to an estimate.</b> While a proposal or change order is open, results from its service have a + that adds the item; tap the check to remove it.</li>
+  <li><b>Incentives print evenly and add up.</b> Equal incentives show equal amounts, and Total minus the incentives is exactly the Final, in the app and on the documents.</li>
+  <li><b>Discount exceptions show what was asked for,</b> an approved exception covers the client's proposals but not its change orders, and all incentives together stop at 100%.</li>
+  <li><b>A proposal can't be sent to sign twice,</b> and a voided contract can't be sent to sign again.</li>
+  <li><b>The admin app's Exceptions and Expired Items tabs show their requests,</b> and a service's Pricing Zone settings show what was saved when reopened.</li>
+  <li><b>Refunds:</b> a ticked line starts at one unit, and the refund list scrolls smoothly.</li>
+  <li><b>Smoother iPad:</b> the proposals table fits the screen, a subcategory picked from Summary scrolls to it, and Submit Sale no longer reports a completed sale as failed.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 16 Oct 2026 05:13:37 +0300</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.47</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.47/EstimationTool-1.47.zip" length="26597366" type="application/octet-stream" sparkle:edSignature="d9Qb5YV2JYmT1nipqIzxVJhzkMRhLoOYwHHIBwa03kEDJXtOtxbX1LQlBS42QTNne8KiPUyP/tLE0UavRTqpCw=="/>
+        </item>
+
+        <item>
             <title>1.46.3</title>
             <description><![CDATA[
 <h3>What's new in 1.46.3</h3>
