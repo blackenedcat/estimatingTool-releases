@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.47.1</title>
+            <description><![CDATA[
+<h3>What's fixed in 1.47.1</h3>
+<ul>
+  <li><b>Refund change orders save again.</b> 1.47 refused them with "The total is below zero"; that check is gone.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 16 Oct 2026 20:22:35 +0300</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.47.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.47.1/EstimationToolPCM-1.47.1.zip" length="94701229" type="application/octet-stream" sparkle:edSignature="p2CLtmcKLQOjky7FcQ3omdeXWRlpFCmIxAX+rp36hcNtH0u/gcXADaOGBEKkaNnvQuepzdlUvEToMOuo/omADA=="/>
+        </item>
+
+        <item>
             <title>1.47</title>
             <description><![CDATA[
 <h3>What's new in 1.47</h3>

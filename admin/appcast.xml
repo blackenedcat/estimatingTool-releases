@@ -3,6 +3,21 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.47.1</title>
+            <description><![CDATA[
+<h3>What's fixed in 1.47.1</h3>
+<ul>
+  <li><b>Refund change orders save again.</b> 1.47 refused them with "The total is below zero"; that check is gone.</li>
+</ul>
+]]></description>
+            <pubDate>Fri, 16 Oct 2026 20:22:35 +0300</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.47.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.47.1/EstimationTool-1.47.1.zip" length="26597372" type="application/octet-stream" sparkle:edSignature="trDXCI/ZV5Dm2ql/baCYjoA6gC69cDju3eer9c942nNMqV3sJ3Gh+/J9g2ICmv5knhrP0GUZs/R73CNHDtPTBw=="/>
+        </item>
+
+        <item>
             <title>1.47</title>
             <description><![CDATA[
 <h3>What's new in 1.47</h3>
