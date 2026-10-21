@@ -3,6 +3,22 @@
     <channel>
         <title>EstimationTool PCM</title>
         <item>
+            <title>1.47.2</title>
+            <description><![CDATA[
+<h3>What's new in 1.47.2</h3>
+<ul>
+  <li><b>Refund lines show what they refund.</b> On a change order, a refund of a catalog item shows that item's catalog # and the units refunded at the price per unit, in the editor and on the saved change order. Refunds made before this update are shown the same way.</li>
+  <li><b>Tidier numbers:</b> Price and Input on saved proposals, change orders and presets show at most two decimals.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 21 Oct 2026 13:12:06 +0300</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.47.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/pcm-v1.47.2/EstimationToolPCM-1.47.2.zip" length="94757100" type="application/octet-stream" sparkle:edSignature="ZcO7yv1MiJvSrOoI1Ady0mn+H5WX5opzF5ExtNonR79eObdGZVnAl5rU/6E/L6ocVG2ryqEjMNPZAr1L7RxpCQ=="/>
+        </item>
+
+        <item>
             <title>1.47.1</title>
             <description><![CDATA[
 <h3>What's fixed in 1.47.1</h3>

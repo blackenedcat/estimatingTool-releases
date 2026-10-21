@@ -3,6 +3,22 @@
     <channel>
         <title>EstimationTool</title>
         <item>
+            <title>1.47.2</title>
+            <description><![CDATA[
+<h3>What's new in 1.47.2</h3>
+<ul>
+  <li><b>Refund lines show what they refund.</b> On a change order, a refund of a catalog item shows that item's catalog # and the units refunded at the price per unit, in the editor and on the saved change order. Refunds made before this update are shown the same way.</li>
+  <li><b>Tidier numbers:</b> Price and Input on saved proposals, change orders and presets show at most two decimals.</li>
+</ul>
+]]></description>
+            <pubDate>Wed, 21 Oct 2026 13:12:06 +0300</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.47.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/blackenedcat/estimatingTool-releases/releases/download/admin-v1.47.2/EstimationTool-1.47.2.zip" length="26614481" type="application/octet-stream" sparkle:edSignature="+Jq/VRZwtYSnuieHDHaKQxpkSerIG1pbVesHGZCI5A3MqJUJ3hXMSQNHQz7uQ3D9Y89Z4dV8IqJA2E9MMIc0Dw=="/>
+        </item>
+
+        <item>
             <title>1.47.1</title>
             <description><![CDATA[
 <h3>What's fixed in 1.47.1</h3>
